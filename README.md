@@ -1,132 +1,147 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Lucas%20🚀&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20•%20Builder%20•%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Lucas%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20Automation&descAlignY=58&descSize=18&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-Always learning, always building & automating ⚡
+**IT Student • Web Development • Automation • Cybersecurity**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+🎓 2nd-year Computer Science student at Sup de Vinci — La Défense
 
-</div>
-
----
-
-## 🧠 À propos de moi
-
-| Clé | Valeur |
-|-----|--------|
-| name | Lucas |
-| focus | Web Development, AI Agents, Automation |
-| stack | HTML, CSS, JavaScript, React, Python, Node.js |
-| interests | LLMs, Prompt Engineering, Automation |
-| currently | Building full-stack web apps & AI tools 🚀 |
-| future | Creating autonomous AI agents 🌙 |
-| motto | Build beautiful websites. Automate everything. 🔥 |
-
----
-
-## 🌐 Web Development
-
-Je crée des **sites web modernes, responsifs et performants** qui allient design épuré et fonctionnalité robuste.
-
-### 💼 Projets Web Réalisés
-
-🏰 **Main Line Bounce** — Plateforme e-commerce pour location de châteaux gonflables
-- ✅ Intégration Stripe, panier dynamique, design responsive
-- ✅ HTML/CSS/JavaScript vanilla
-
-📊 **Management Guide Interactive** — Plateforme de gestion pour petites entreprises
-- ✅ Navigation sidebar, accordéons, sections collapsibles
-- ✅ 100% responsive, GitHub Pages ready
-
-🛠️ **Custom Business Websites** — Sites tailored pour entreprises locales
-- ✅ Design personnalisé, SEO optimisé, fast loading
-- ✅ Forms & CTAs pour conversions
-
----
-
-## 🤖 AI & Agents
-
-Passionné par l'intelligence artificielle appliquée — des agents autonomes aux workflows automatisés, j'explore comment l'IA peut amplifier ce qu'un humain peut accomplir seul.
-
-### 🎯 Ce que je fais
-
-🧩 **AI Agents** — conception d'agents autonomes avec LangChain / OpenAI / Claude
-
-⚙️ **Automation** — pipelines no-code et full-code (n8n, Make, scripts Python)
-
-🔗 **Intégrations API** — connecter des outils entre eux intelligemment
-
-📊 **RAG & LLMs** — retrieval augmented generation, fine-tuning, prompt engineering
-
----
-
-## 🛠️ Stack & Tools
-
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-5469D4?style=for-the-badge&logo=stripe&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/lucas-decebal-danger)
 
 </div>
 
 ---
 
-## 🔥 What am I doing right now?
+## 👨‍💻 About Me
 
-🌐 **Web Development** — sites e-commerce, dashboards interactifs, responsive designs
+I'm a **2nd-year Computer Science student at Sup de Vinci**, currently developing my skills in IT, web development, systems & networks, and automation.
 
-🤖 **AI Agents** — agents autonomes capables de naviguer le web et d'exécuter des tâches
+I'm particularly interested in **cybersecurity and ethical hacking**, while continuing to build practical experience through personal and academic projects.
 
-🎨 **Web Design** — création d'interfaces épurées et performantes
+I enjoy learning by building real projects and experimenting with different technologies.
 
-🔄 **Automation Pipelines** — workflow n8n reliant APIs, LLMs et bases de données
+**Currently learning:**
 
-💳 **E-commerce Integration** — Stripe, paiements, gestion de commandes
-
-📚 **CS Fundamentals** — apprentissage continu des bases de l'informatique
-
----
-
-## 💼 Services
-
-| Service | Description | Tech |
-|---------|-------------|------|
-| 🌐 Website Creation | Sites modernes & responsifs | HTML/CSS/JS |
-| 💳 E-commerce Setup | Boutiques en ligne avec paiements | Stripe + JS |
-| 📊 Interactive Tools | Dashboards & management platforms | HTML/CSS/JS |
-| 🤖 AI Automation | Workflows intelligents | n8n, Python, OpenAI |
-| 🔗 API Integration | Connexion d'outils & données | REST APIs |
+* 🔐 Cybersecurity & ethical hacking
+* 🖥️ Systems & networks
+* 🌐 Web development
+* ⚙️ Automation & AI tools
 
 ---
 
-## 🎯 Featured Projects
+## 🛠️ Skills & Technologies
 
-### 🏰 Main Line Bounce
-**E-commerce pour location de châteaux gonflables**
-- ✅ Panier dynamique avec localStorage
-- ✅ Intégration Stripe pour paiements
-- ✅ Design responsive & moderne
-- ✅ Google Ads intégré pour conversion tracking
+### 💻 Development
 
-### 📊 Management Guide Interactive
-**Plateforme de gestion pour entreprises**
-- ✅ Navigation sidebar intuitive
-- ✅ Accordéons & sections collapsibles
-- ✅ 100% responsive, GitHub Pages compatible
-- ✅ Structure modulaire & scalable
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### 🖥️ Systems & Networks
+
+* Linux
+* Windows Server
+* Cisco Packet Tracer
+* VMware
+* Networking fundamentals
+
+### 🔐 Cybersecurity & Automation
+
+* Cybersecurity fundamentals
+* n8n
+* Make
+* API integrations
+* Git / GitHub
+
+### 🗄️ Tools & Databases
+
+* MongoDB
+* WordPress
+* Microsoft Office
+* SAP — basic exposure
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience
+
+### 🏰 Main Line Bounce — Pennsylvania, USA
+
+**Web Development · June 2026**
+
+Developed an e-commerce website for an inflatable rental business.
+
+* Responsive interfaces with HTML, CSS and JavaScript
+* Dynamic shopping cart using localStorage
+* Stripe payment integration
+* API key protection using Netlify environment variables
+* User input security measures
+* SEO and Google Ads conversion tracking
+* Interactive management guide
+* Communication with the client in English
+
+### 🏢 Safran
+
+**Professional Discovery · June 2026**
+
+* Introduction to SAP in a professional environment
+* Discovery of ERP usage within a large industrial company
+* Observation of IT tools and professional organization
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 AgriScan
+
+**Plant disease detection application**
+
+* Frontend & backend development
+* TypeScript
+* MongoDB
+
+### 🤖 Gymshark Sync
+
+**Enterprise chatbot**
+
+* Frontend development
+* HTML
+* CSS
+* JavaScript
+* Team project
+
+### ⚙️ Automated AI Monitoring
+
+**Automated information workflow**
+
+* n8n
+* Make
+* Workflow automation
+
+---
+
+## 📚 Currently Learning
+
+I'm currently focusing on building stronger foundations in:
+
+* 🔐 Cybersecurity
+* 🖥️ Systems & networks
+* 🐧 Linux
+* 🌐 Networking
+* 🐍 Python
+* 🤖 AI & automation
+
+My long-term goal is to work in **cybersecurity and ethical hacking**.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -140,7 +155,7 @@ Passionné par l'intelligence artificielle appliquée — des agents autonomes a
 
 <div align="center">
 
-**"The best way to predict the future is to build it and automate it."**
+**Learning • Building • Improving**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
