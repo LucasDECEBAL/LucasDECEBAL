@@ -26,16 +26,16 @@ I enjoy learning by building real projects and experimenting with different tech
 
 **Currently learning:**
 
-* 🔐 Cybersecurity & ethical hacking
-* 🖥️ Systems & networks
-* 🌐 Web development
-* ⚙️ Automation & AI tools
+* Cybersecurity & ethical hacking
+* Systems & networks
+* Web development
+* Automation & AI tools
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Development
+### Development
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -44,7 +44,7 @@ I enjoy learning by building real projects and experimenting with different tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-### 🖥️ Systems & Networks
+### Systems & Networks
 
 * Linux
 * Windows Server
@@ -52,7 +52,7 @@ I enjoy learning by building real projects and experimenting with different tech
 * VMware
 * Networking fundamentals
 
-### 🔐 Cybersecurity & Automation
+### Cybersecurity & Automation
 
 * Cybersecurity fundamentals
 * n8n
@@ -60,7 +60,7 @@ I enjoy learning by building real projects and experimenting with different tech
 * API integrations
 * Git / GitHub
 
-### 🗄️ Tools & Databases
+### Tools & Databases
 
 * MongoDB
 * WordPress
@@ -71,7 +71,7 @@ I enjoy learning by building real projects and experimenting with different tech
 
 ## 💼 Experience
 
-### 🏰 Main Line Bounce — Pennsylvania, USA
+### Main Line Bounce — Pennsylvania, USA
 
 **Web Development · June 2026**
 
@@ -86,7 +86,7 @@ Developed an e-commerce website for an inflatable rental business.
 * Interactive management guide
 * Communication with the client in English
 
-### 🏢 Safran
+### Safran
 
 **Professional Discovery · June 2026**
 
@@ -98,7 +98,7 @@ Developed an e-commerce website for an inflatable rental business.
 
 ## 🚀 Featured Projects
 
-### 🌱 AgriScan
+### AgriScan
 
 **Plant disease detection application**
 
@@ -106,7 +106,7 @@ Developed an e-commerce website for an inflatable rental business.
 * TypeScript
 * MongoDB
 
-### 🤖 Gymshark Sync
+### Gymshark Sync
 
 **Enterprise chatbot**
 
@@ -116,7 +116,7 @@ Developed an e-commerce website for an inflatable rental business.
 * JavaScript
 * Team project
 
-### ⚙️ Automated AI Monitoring
+### Automated AI Monitoring
 
 **Automated information workflow**
 
@@ -126,16 +126,16 @@ Developed an e-commerce website for an inflatable rental business.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 I'm currently focusing on building stronger foundations in:
 
-* 🔐 Cybersecurity
-* 🖥️ Systems & networks
-* 🐧 Linux
-* 🌐 Networking
-* 🐍 Python
-* 🤖 AI & automation
+* Cybersecurity
+* Systems & networks
+* Linux
+* Networking
+* Python
+* AI & automation
 
 My long-term goal is to work in **cybersecurity and ethical hacking**.
 
