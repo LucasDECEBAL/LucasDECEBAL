@@ -73,7 +73,7 @@ I enjoy learning by building real projects and experimenting with different tech
 
 ### Main Line Bounce — Pennsylvania, USA
 
-**Web Development · June 2026**
+**Web Development · July 2026**
 
 Developed an e-commerce website for an inflatable rental business.
 
