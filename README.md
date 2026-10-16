@@ -86,7 +86,7 @@ Developed an e-commerce website for an inflatable rental business.
 * Interactive management guide
 * Communication with the client in English
 
-### Safran
+### Argano
 
 **Professional Discovery · June 2026**
 
