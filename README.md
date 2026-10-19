@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Lucas%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Systems%20%26%20Networks%20%E2%80%A2%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Hey,%20I'm%20Lucas%20%F0%9F%91%8B&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=IT%20Student%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Systems%20%26%20Networks%20%E2%80%A2%20Cloud&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-**IT Student • Cybersecurity • Systems & Networks • Cloud**
+**IT Student • Cybersecurity • Systems &amp; Networks • Cloud**
 
 🎓 2nd-year Computer Science student at Sup de Vinci — La Défense
 
@@ -26,7 +26,7 @@
 |---|---|
 | **Role** | Apprenticeship (alternance) — 3rd year, starting September 2027 |
 | **Rhythm** | 2 weeks at school / 2 weeks in the company |
-| **Focus** | Cybersecurity · Systems & Networks · Cloud |
+| **Focus** | Cybersecurity · Systems &amp; Networks · Cloud |
 | **Location** | Île-de-France, France — on-site (présentiel) |
 | **Contact** | lucasdecebaldanger09@gmail.com · +33 7 82 68 56 26 |
 
@@ -40,25 +40,25 @@
 
 ## 👨‍💻 About Me
 
-I'm a **2nd-year Computer Science student at Sup de Vinci (La Défense)**, currently developing my skills in IT, web development, systems & networks, and automation.
+I'm a **2nd-year Computer Science student at Sup de Vinci (La Défense)**, currently developing my skills in IT, web development, systems &amp; networks, and automation.
 
 I'm particularly interested in **cybersecurity and ethical hacking**, while continuing to build practical experience through personal and academic projects.
 
-I'm now looking for an **apprenticeship for my 3rd year (Fall 2027)** to keep learning on real production systems — with a focus on cybersecurity, systems & networks, or cloud.
+I'm now looking for an **apprenticeship for my 3rd year (Fall 2027)** to keep learning on real production systems — with a focus on cybersecurity, systems &amp; networks, or cloud.
 
 I enjoy learning by building real projects and experimenting with different technologies.
 
 **Currently learning:**
 
-* Cybersecurity & ethical hacking
-* Systems & networks (Linux, networking)
+* Cybersecurity &amp; ethical hacking
+* Systems &amp; networks (Linux, networking)
 * Cloud fundamentals
 * Web development
-* Automation & AI tools
+* Automation &amp; AI tools
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills &amp; Technologies
 
 ### Development
 
@@ -70,7 +70,7 @@ I enjoy learning by building real projects and experimenting with different tech
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### Systems & Networks
+### Systems &amp; Networks
 
 * Linux
 * Windows Server
@@ -78,7 +78,7 @@ I enjoy learning by building real projects and experimenting with different tech
 * VMware
 * Networking fundamentals
 
-### Cybersecurity & Automation
+### Cybersecurity &amp; Automation
 
 * Cybersecurity fundamentals
 * n8n
@@ -86,7 +86,7 @@ I enjoy learning by building real projects and experimenting with different tech
 * API integrations
 * Git / GitHub
 
-### Tools & Databases
+### Tools &amp; Databases
 
 * MongoDB
 * WordPress
@@ -124,55 +124,15 @@ Developed an e-commerce website for an inflatable rental business, fully autonom
 
 ## 🚀 Featured Projects
 
-### [WebShield](https://github.com/LucasDECEBAL/WebShield) — HTTP security scanner
+| Project | What it is | Stack | Code |
+|---|---|---|---|
+| **[WebShield](https://github.com/LucasDECEBAL/WebShield)** | HTTP security scanner — analyzes security headers, cookies and redirects, then generates a readable HTML report | Python | [GitHub](https://github.com/LucasDECEBAL/WebShield) |
+| **[Main Line Bounce](https://github.com/LucasDECEBAL/mainlinebounce)** | E-commerce site built autonomously for a real client in the US, from mockup to production | HTML · CSS · JS · Stripe | [GitHub](https://github.com/LucasDECEBAL/mainlinebounce) |
+| **[Gymshark Sync](https://github.com/LucasDECEBAL/Projet-Gymshark---Sync)** | Internal AI assistant (team project) — chat frontend, real-time streaming, local LLM | JS · Node.js · Ollama | [GitHub](https://github.com/LucasDECEBAL/Projet-Gymshark---Sync) |
+| **[AgriScan](https://github.com/LucasDECEBAL/Projet-d-etude)** | Mobile diagnosis app focused on UX and decision support | TypeScript · MongoDB | [GitHub](https://github.com/LucasDECEBAL/Projet-d-etude) |
+| **[AI monitoring](https://github.com/LucasDECEBAL/veille-ia-automatique)** | Automated watch workflow: RSS feeds → filtering → AI summary → Notion | n8n · Make · OpenAI | [GitHub](https://github.com/LucasDECEBAL/veille-ia-automatique) |
 
-**Python · Cybersecurity**
-
-Tool that analyzes HTTP security headers, cookies and redirects of a website, then generates a readable HTML report.
-
-* Security headers analysis
-* Cookie and redirect behaviour checks
-* Clean HTML report + technical documentation
-
-### [Main Line Bounce](https://github.com/LucasDECEBAL/mainlinebounce) — E-commerce website
-
-**HTML · CSS · JavaScript · Stripe · Netlify**
-
-Responsive storefront for a party rental company, built from a mockup for a real client in the US.
-
-* Responsive UI for desktop and mobile
-* Dynamic cart with localStorage + Stripe payments
-* Input validation and SEO optimisation
-
-### [Gymshark Sync](https://github.com/LucasDECEBAL/Projet-Gymshark---Sync) — Internal AI assistant
-
-**JavaScript · Node.js · Express · Ollama**
-
-Team project around an internal AI chatbot. I mainly worked on the frontend to make conversations clearer and tasks easier to organise.
-
-* Chat UI with shortcuts and action blocks
-* Local architecture with Ollama and conversation history
-* Real-time streaming (SSE)
-
-### [AgriScan](https://github.com/LucasDECEBAL/Projet-d-etude) — Agricultural diagnosis app
-
-**TypeScript · MongoDB · Mobile**
-
-Mobile app oriented toward agricultural diagnosis and decision support, focused on UX and information structure.
-
-* Mobile-first interface for fast consultation
-* Symptom-driven user journey
-* TypeScript + MongoDB stack
-
-### [Automated AI monitoring](https://github.com/LucasDECEBAL/veille-ia-automatique) — Information workflow
-
-**n8n · Make · OpenAI · Notion**
-
-Automated workflow that collects RSS feeds, filters useful content, summarises it with AI and archives it into Notion.
-
-* Source collection and aggregation
-* Content filtering and synthesis
-* Structured archiving in Notion
+📦 Plus d'autres dépôts épinglés en haut de mon profil — et le portfolio complet ici : **https://lucasdecebal.github.io/Portfolio-Lucas/**
 
 ---
 
@@ -195,9 +155,9 @@ Automated workflow that collects RSS feeds, filters useful content, summarises i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasDECEBAL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasDECEBAL&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=ffffff" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDECEBAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDECEBAL&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=ffffff" />
 
 </div>
 
@@ -207,6 +167,6 @@ Automated workflow that collects RSS feeds, filters useful content, summarises i
 
 **Learning • Building • Improving**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
 
 </div>
