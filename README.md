@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Salut,%20je%20suis%20Lucas%20%F0%9F%91%8B&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=%C3%89tudiant%20en%20informatique%20%E2%80%A2%20Cybers%C3%A9curit%C3%A9%20%E2%80%A2%20Syst%C3%A8mes%20%26%20r%C3%A9seaux%20%E2%80%A2%20Cloud&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" alt="Salut, je suis Lucas" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Salut,%20je%20suis%20Lucas%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20Automation&descAlignY=58&descSize=18&animation=fadeIn" />
 
 </div>
 
@@ -10,9 +10,9 @@
 
 🎓 2e année d'informatique à Sup de Vinci — La Défense
 
-<a href="https://linkedin.com/in/lucas-decebal-danger"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-<a href="https://lucasdecebal.github.io/Portfolio-Lucas/"><img src="https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:lucasdecebaldanger09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/lucas-decebal-danger)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://lucasdecebal.github.io/Portfolio-Lucas/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lucasdecebaldanger09@gmail.com)
 
 </div>
 
@@ -62,13 +62,13 @@ J'aime apprendre en construisant des projets concrets et en expérimentant diff�
 
 ### Développement
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Systèmes &amp; réseaux
 
@@ -140,10 +140,10 @@ Développement d'un site e-commerce pour une entreprise de location de châteaux
 
 <div align="center">
 
-<a href="https://linkedin.com/in/lucas-decebal-danger"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/LucasDECEBAL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-<a href="https://lucasdecebal.github.io/Portfolio-Lucas/"><img src="https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:lucasdecebaldanger09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/lucas-decebal-danger)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/LucasDECEBAL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://lucasdecebal.github.io/Portfolio-Lucas/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lucasdecebaldanger09@gmail.com)
 
 **Disponible pour une alternance à partir de septembre 2027 — et pour un stage de 2 mois dès le 10 mai 2027.**
 
@@ -155,9 +155,9 @@ Développement d'un site e-commerce pour une entreprise de location de châteaux
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasDECEBAL&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=ffffff" alt="Statistiques GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasDECEBAL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDECEBAL&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=ffffff" alt="Langages les plus utilisés" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDECEBAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
 
 </div>
 
@@ -167,6 +167,6 @@ Développement d'un site e-commerce pour une entreprise de location de châteaux
 
 **Apprendre • Construire • Progresser**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
 </div>
