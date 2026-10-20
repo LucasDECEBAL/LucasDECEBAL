@@ -136,21 +136,6 @@ Développement d'un site e-commerce pour une entreprise de location de châteaux
 
 ---
 
-## 📫 Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/lucas-decebal-danger)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/LucasDECEBAL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://lucasdecebal.github.io/Portfolio-Lucas/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lucasdecebaldanger09@gmail.com)
-
-**Disponible pour une alternance à partir de septembre 2027 — et pour un stage de 2 mois dès le 10 mai 2027.**
-
-</div>
-
----
-
 ## 📊 Statistiques GitHub
 
 <div align="center">
