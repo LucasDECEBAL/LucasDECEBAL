@@ -132,7 +132,7 @@ Développement d'un site e-commerce pour une entreprise de location de châteaux
 | **[AgriScan](https://github.com/LucasDECEBAL/Projet-d-etude)** | Application mobile de diagnostic, centrée sur l'UX et l'aide à la décision | TypeScript · MongoDB | [GitHub](https://github.com/LucasDECEBAL/Projet-d-etude) |
 | **[Veille IA](https://github.com/LucasDECEBAL/veille-ia-automatique)** | Workflow de veille automatisé : flux RSS → filtrage → résumé IA → Notion | n8n · Make · OpenAI | [GitHub](https://github.com/LucasDECEBAL/veille-ia-automatique) |
 
-📦 D'autres dépôts sont épinglés en haut de mon profil — et le portfolio complet est ici : **https://lucasdecebal.github.io/Portfolio-Lucas/**
+📦 D'autres dépôts sont épinglés en bas de mon profil — et le portfolio complet est ici : **https://lucasdecebal.github.io/Portfolio-Lucas/**
 
 ---
 
